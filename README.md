@@ -1,6 +1,6 @@
 # Statistics With Python Specialization 
 
-## 📍 About this Professional Certificate
+## 📍 About this Specialization Certificate
 
 
 ## 🥇 Specialization Certificate
