@@ -1,5 +1,6 @@
 # Statistics With Python Specialization 
 This repository contains all the coursework and projects I have completed during the Statistics with Python Specialization offered by the University of Michigan on Coursera.
+Rating Course: 5/5
 ## 🥇 Specialization Certificate
 
 Course 1 Understanding and Visualizing Data with Python Certificate
