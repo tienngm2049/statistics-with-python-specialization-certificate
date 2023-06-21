@@ -3,7 +3,7 @@ This repository contains all the coursework and projects I have completed during
 
 Rating Course: 5/5
 
-`showcase folder` is where I displayed my own small "project" throughout the courses by answering the extra practice question. 
+`showcase folder` is where I displayed my own small "projects" throughout the courses by answering the extra practice question. 
 
 ## 🥇 Professional Certificate
 
