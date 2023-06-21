@@ -2,6 +2,9 @@
 This repository contains all the coursework and projects I have completed during the Statistics with Python Specialization offered by the University of Michigan on Coursera.
 
 Rating Course: 5/5
+
+`showcase folder` is where I displayed my own small "project" throughout the courses by answering the extra practice question. 
+
 ## 🥇 Professional Certificate
 
 ### Course 1 Understanding and Visualizing Data with Python Certificate
