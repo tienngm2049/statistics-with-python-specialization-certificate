@@ -1,6 +1,6 @@
 # Understanding and Visualizing Data with Python
 
-I have successfully completed the "Understanding and Visualizing Data with Python" course, and I am excited to share my learnings and achievements with you through this GitHub README.
+I have successfully completed the "Understanding and Visualizing Data with Python" course, and I am excited to share my learnings and achievements with you through this.
 
 ## Course Overview
 
