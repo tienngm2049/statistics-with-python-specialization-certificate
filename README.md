@@ -7,6 +7,9 @@ Rating Course: 5/5
 
 ## 🥇 Professional Certificate
 
+![image](https://github.com/tienngm2049/Statistics-With-Python-Specialization-Certificate/assets/131929681/80eb97f2-87d0-4833-a887-5d113048f192)
+
+
 ### Course 1 Understanding and Visualizing Data with Python Certificate
 ![image](https://github.com/tienngm2049/Statistics-With-Python-Specialization/assets/131929681/425e7091-9297-4cf8-aef1-75a317c90a5e)
 Link to verify: https://www.coursera.org/account/accomplishments/verify/LGPWWSR5C8U8
