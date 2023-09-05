@@ -27,6 +27,7 @@ In the "showcase folder," I've proudly displayed my own mini "projects" that I c
 
 I'm proud to have earned the **Professional Certificate** for completing this specialization. This certification is a testament to my dedication to mastering statistical analysis and applying it using Python.
 
+![image](https://github.com/tienngm2049/Statistics-With-Python-Specialization-Certificate/assets/131929681/b441ef7d-0970-4c29-bed6-a6582793d7fb)
 ![Professional Certificate](https://github.com/tienngm2049/Statistics-With-Python-Specialization-Certificate/assets/131929681/80eb97f2-87d0-4833-a887-5d113048f192)
 
 ## Verified Accomplishments
